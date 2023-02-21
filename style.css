@@ -1049,4 +1049,6 @@ h4 {
 .img-quote {
     width:90%;
     object-fit: contain;
+    height: 40px;
 }
+
