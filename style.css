@@ -742,6 +742,11 @@ h4 {
     color: #FFFFFF!important;
 }*/
 
+.logo_panthere{
+    height :40px;
+    width : 216px
+}
+
 .portfolio-thumb {
     margin-bottom: 24px;
     height: 270px;
