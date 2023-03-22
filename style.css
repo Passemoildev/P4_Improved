@@ -130,7 +130,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .9)
+    color: black
 }
 
 .d-bloc button:hover {
@@ -201,7 +201,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5)
+    color: black
 }
 
 .d-bloc .panel button:hover,
@@ -1054,4 +1054,8 @@ p {
 
 li {
     line-height: 48px;
+}
+
+.true_black{
+    color:#000
 }
